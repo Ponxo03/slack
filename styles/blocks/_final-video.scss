@@ -1,0 +1,33 @@
+.finish-video{
+    
+        img{
+            margin-top: 50px;
+            float: left;
+            margin-left: $margin-left;
+            width: 40%;
+        }
+        .text{
+            padding-top: 90px;
+            font-size: 25px;
+            margin-right: $margin-right;
+            font-family: $generic-font;
+        }
+
+        h5{
+            font-size: 15px;
+            font-family: $generic-font;
+
+        }
+        p{
+            
+            font-family: $generic-font; 
+        }
+        a{
+            text-decoration: none;
+            font-size: 20px;
+        }
+}
+.p-finish{
+    margin-left: $margin-left;
+    padding-top: 180px;
+}

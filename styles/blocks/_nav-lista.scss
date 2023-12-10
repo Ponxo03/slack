@@ -1,0 +1,14 @@
+@import "../utils/color";
+li {
+    font-size: $list-size;
+    list-style-type: none;
+    margin-left: 50px;
+    margin-top: 40px;
+    a {
+        
+        text-align: center;
+        text-decoration: none;
+        color:$color-letra;
+    }
+
+}

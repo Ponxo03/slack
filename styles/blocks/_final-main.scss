@@ -1,0 +1,36 @@
+.fin-main{
+    background-color:$color-purple ;
+    padding-bottom: 80px;
+    border-radius:0px 00px 350px 350px;
+    padding-top: 25px;
+    
+    
+   
+
+    h3{
+        
+        font-family: $generic-font;
+        color:$color-letra;
+        text-align: center;
+        font-size: 45px;
+    }
+    &__button1{
+        font-family: $generic-font;
+        background-color:$color-letra;
+        color:$color-purple;
+        border:solid 1px white;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-left: 32%;
+
+    }
+    &__button2{
+        color:$color-letra;
+        font-family: $generic-font;
+        border:solid 2px white;
+        background-color:$color-purple;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-left: 150px;
+    }
+}

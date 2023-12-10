@@ -1,0 +1,53 @@
+.section-emoji{
+    h3{
+        font-family: $generic-font;
+        text-align: center;
+        font-size: 50px;
+    }
+
+    p{
+        font-family: $generic-font;
+        text-align: center;
+        font-size: 20px;
+    }
+    ul{
+        display: flex;
+    }
+    
+    
+    }
+  
+.list{
+    span{
+        font-family: $generic-font;
+        font-size: 85px;
+        color:$color-purple;
+        text-align: left;  
+    }
+}   
+    
+button{
+    margin-right: -140px;
+    margin-left: 250px;
+    border-radius: 5%;
+    border:solid 2px white;
+    height: 50px;
+    font-family: $generic-font;
+    border:solid 2px purple;
+}
+.list-button__button1{
+    color: white;
+    background-color: purple;
+    padding-left: 64px;
+    padding-right: 42px;
+    margin-right: 18px;
+    margin-left: 34%;
+    
+}
+.list-button__button2{
+    color:$color-purple;
+    background-color:white;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+}

@@ -1,0 +1,28 @@
+
+.section-logos{
+    padding-top: 10px;
+    background-color:$color-background;
+
+    img{
+        width: 150px;
+        height: 80px;
+        margin-bottom: 20px;
+     
+        
+    }
+
+    p{
+        
+        margin-bottom: 20px;
+        text-align: center;
+        color: black;
+        font-family: $generic-font;
+    }
+   
+}
+.logos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}

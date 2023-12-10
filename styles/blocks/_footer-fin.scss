@@ -1,0 +1,28 @@
+.header-fin{
+
+border-style: solid ;
+border-width: 2px 0px 0px 0px ;
+border-color: silver;
+width: 70%;
+margin-left: 10%;
+
+
+
+
+    &__listfinal{
+        
+        display: flex;
+        font-family: $generic-font;
+        font-size: 10px;
+        padding-bottom: 15px;
+    }
+    p{
+        margin-left:$margin-left;
+    }
+    a{
+        font-size: 15px;
+        color:black;
+        
+    }
+   
+}

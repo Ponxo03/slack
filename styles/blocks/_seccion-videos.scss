@@ -1,0 +1,47 @@
+.section-video{
+    background-color: $color-background;
+    padding-top: 10px;
+    padding-bottom: 15%;
+    
+    
+     
+    &__video1{
+        
+        img{
+            float: left;
+            margin-left: $margin-left;
+            width: 40%;
+            }
+        h3{
+            font-size: 40px;
+            text-align: left;
+            font-family: $generic-font;
+            margin-right: $margin-right;
+            margin-bottom: 5px;
+            
+        }
+        p{
+            font-family: $generic-font;
+            text-align: left;
+            margin-right: $margin-right;
+            margin-bottom: 10px;
+            
+        }
+        a{
+            text-decoration: none;
+            color: blue;
+            font-size: 20px ;
+            
+            
+        }
+            
+    }
+
+        
+        
+}
+    
+
+
+
+
